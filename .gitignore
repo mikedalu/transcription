@@ -1,0 +1,28 @@
+# Audio inputs and score assets
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+*.mscz
+*.pdf
+*.musicxml
+*.mxl
+*.mid
+*.midi
+
+# Generated work / output
+work/
+output/
+assets/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
